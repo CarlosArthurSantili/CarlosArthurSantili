@@ -1,7 +1,7 @@
-### Analista Desenvolvedor de Software 👋
+### Oi, eu sou o Arthur, Analista Desenvolvedor Junior.
 
 <!--
-**CarlosArthurSantili/CarlosArthurSantili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CarlosArthurSantili/CarlosArthurSantili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 👋
 
 Here are some ideas to get you started:
 
